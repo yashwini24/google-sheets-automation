@@ -2,7 +2,7 @@
   const ss = SpreadsheetApp.getActiveSpreadsheet();
   const masterSheet = ss.getSheetByName("Summary"); // master sheet name
 
-  const sheetNames = ["Hawkeye360", "Unseen Labs", "Capella", "ICEYE", "Umbra", "Synspective", "Pixxel"]; // feeder sheet names
+  const sheetNames = ["Sheet A", "Sheet B", "Sheet B"]; // feeder sheet names
   let targetRow = masterSheet.getLastRow(); // will start pasting after leaving 1 row 
 
   sheetNames.forEach(name => {
