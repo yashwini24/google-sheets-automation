@@ -21,7 +21,7 @@ This Google Apps Script automates the process of copying data from multiple "fee
 
 ## 🛠️ How to Use
 
-📄 [View the script → copyToMasterSheet.gs](./copyToMasterSheet.gs)
+📄 [View the script → copytomasterSheet.gs](./copytomastersheet.gs)
 
 1. Open your target Google Sheet
 2. Go to `Extensions > Apps Script`
