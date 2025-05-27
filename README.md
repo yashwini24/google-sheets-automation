@@ -1,3 +1,9 @@
+[![Release](https://img.shields.io/github/v/release/yashwini24/google-sheets-automation?sort=semver)](https://github.com/yashwini24/google-sheets-automation/releases)
+[![License](https://img.shields.io/github/license/yashwini24/google-sheets-automation)](https://github.com/yashwini24/google-sheets-automation/blob/main/LICENSE)
+[![Language](https://img.shields.io/github/languages/top/yashwini24/google-sheets-automation)](https://github.com/yashwini24/google-sheets-automation)
+[![Repo Size](https://img.shields.io/github/repo-size/yashwini24/google-sheets-automation)](https://github.com/yashwini24/google-sheets-automation)
+[![Last Commit](https://img.shields.io/github/last-commit/yashwini24/google-sheets-automation)](https://github.com/yashwini24/google-sheets-automation/commits/main)
+
 # google-sheets-automation
 Use this to automate copy pasting from supporting sheets to a summary sheet
 
